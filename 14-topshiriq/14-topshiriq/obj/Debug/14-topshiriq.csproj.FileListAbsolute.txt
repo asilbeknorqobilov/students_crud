@@ -1,0 +1,6 @@
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\bin\Debug\_14_topshiriq.exe
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\bin\Debug\_14_topshiriq.pdb
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\obj\Debug\14-topshiriq.csproj.AssemblyReference.cache
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\obj\Debug\14-topshiriq.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\obj\Debug\_14_topshiriq.exe
+C:\Users\Konstantinopol\RiderProjects\14-topshiriq\14-topshiriq\obj\Debug\_14_topshiriq.pdb
